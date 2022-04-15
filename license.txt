@@ -1,0 +1,11 @@
+Model Information:
+* title:	1
+* source:	https://sketchfab.com/3d-models/1-67a83800af974d81bf628ae578ff2767
+* author:	usmanova.alina (https://sketchfab.com/usmanova.alina.170901)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1" (https://sketchfab.com/3d-models/1-67a83800af974d81bf628ae578ff2767) by usmanova.alina (https://sketchfab.com/usmanova.alina.170901) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
